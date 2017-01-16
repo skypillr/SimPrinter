@@ -1,0 +1,12 @@
+D:\jdocs\wysjsjdb\code\ConsoleSimPrt\ConsoleSimPrt\bin\Debug\ConsoleSimPrt.exe.config
+D:\jdocs\wysjsjdb\code\ConsoleSimPrt\ConsoleSimPrt\bin\Debug\ConsoleSimPrt.exe
+D:\jdocs\wysjsjdb\code\ConsoleSimPrt\ConsoleSimPrt\bin\Debug\ConsoleSimPrt.pdb
+D:\jdocs\wysjsjdb\code\ConsoleSimPrt\ConsoleSimPrt\obj\Debug\ConsoleSimPrt.csprojResolveAssemblyReference.cache
+D:\jdocs\wysjsjdb\code\ConsoleSimPrt\ConsoleSimPrt\obj\Debug\ConsoleSimPrt.exe
+D:\jdocs\wysjsjdb\code\ConsoleSimPrt\ConsoleSimPrt\obj\Debug\ConsoleSimPrt.pdb
+E:\soft\psoft\ConsoleSimPrt\ConsoleSimPrt\bin\Debug\ConsoleSimPrt.exe.config
+E:\soft\psoft\ConsoleSimPrt\ConsoleSimPrt\bin\Debug\ConsoleSimPrt.exe
+E:\soft\psoft\ConsoleSimPrt\ConsoleSimPrt\bin\Debug\ConsoleSimPrt.pdb
+E:\soft\psoft\ConsoleSimPrt\ConsoleSimPrt\obj\Debug\ConsoleSimPrt.csprojResolveAssemblyReference.cache
+E:\soft\psoft\ConsoleSimPrt\ConsoleSimPrt\obj\Debug\ConsoleSimPrt.exe
+E:\soft\psoft\ConsoleSimPrt\ConsoleSimPrt\obj\Debug\ConsoleSimPrt.pdb
